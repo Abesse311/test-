@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:note_app_tuto/pages/home.dart';
-import 'package:note_app_tuto/pages/now.dart';
+// import 'package:note_app_tuto/pages/now.dart';
 
 void main() {
   runApp(const MyApp());
