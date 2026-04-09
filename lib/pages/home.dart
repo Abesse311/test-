@@ -15,7 +15,10 @@ class Home extends StatelessWidget {
                 height: 200,
                 width: 150,
                 color: Colors.yellow,
-              )
+              ),
+              ElevatedButton(onPressed: (){}, child: Text("click here")) ,
+              SizedBox(height: 25,),
+              ElevatedButton(onPressed: (){}, child: Text("click here")) ,
             ],
           )
         ],
